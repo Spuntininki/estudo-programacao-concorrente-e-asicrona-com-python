@@ -1,0 +1,1 @@
+Thread(target=servicos, args=(lista_de_contas, total)),

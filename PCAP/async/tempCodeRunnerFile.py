@@ -1,0 +1,1 @@
+print(f'{b.__next__()}: {a.__next__()}')
